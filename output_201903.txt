@@ -1,0 +1,15 @@
+netflix : 758
+videoland : 101
+amazon prime : 6
+apple tv + : 0
+apple tv+ : 0
+appletv + : 0
+appletv+ : 0
+apple tv : 24
+appletv : 4
+netflixen : 49
+film : 1746
+serie : 1143
+Total : 3831
+Number of lines : 933737
+Matching words / lines ratio : 0.004102868366574313
