@@ -11,5 +11,5 @@ netflixen : 49
 film : 1746
 serie : 1143
 Total : 3831
-Number of lines : 933737
-Matching words / lines ratio : 0.004102868366574313
+Number of Tweets : 933737
+Matching words / Tweets ratio : 0.004102868366574313
