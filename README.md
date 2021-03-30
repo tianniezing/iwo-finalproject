@@ -4,7 +4,7 @@ This repository contains code and the data used in this research.
 
 ## Content
 
-- wordscan.py (works on the files tweets_201903_13.txt up to and including 202008_13.txt)
+- wordscan.py (works on the files tweets_201903_13.txt up to and including 202008_13.txt, it also works on other text files if that text file only contains Tweets and has 1 Tweet per line)
 - final_project.sh (contains all Linux commands to download the data from an ssh-server)
 - tweets_201903_13.txt (contains the Tweets from march 2019)
 - tweets_201908_13.txt (contains the Tweets from august 2019)
