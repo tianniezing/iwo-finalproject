@@ -43,10 +43,10 @@ def main(argv):
 
     line_count = count_lines(sys.argv[1])
 
-    print('Number of lines :', line_count)
+    print('Number of Tweets :', line_count)
 
     words_lines_ratio = total / line_count
-    print('Matching words / tweets ratio :', words_lines_ratio)
+    print('Matching words / Tweets ratio :', words_lines_ratio)
 
 
 if __name__ == "__main__":
